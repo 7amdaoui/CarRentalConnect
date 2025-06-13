@@ -39,16 +39,10 @@ CarRentalConnect allows users to browse, reserve, and manage car rentals online.
   ```
 - Frontend runs on `http://localhost:8081`
 
-## 🖼️ Screenshots
-_Add screenshots of the landing page, reservations, admin dashboard, etc._
-
 ## 📄 Usage
 - Register or log in as a user
 - Browse cars and make reservations
 - Admin: log in as `admin@admin.com` to access the admin dashboard
-
-## 🤝 Contact
-For questions or support, contact: [contact@carrentalconnect.ma](mailto:contact@carrentalconnect.ma)
 
 ---
 
